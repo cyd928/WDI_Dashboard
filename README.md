@@ -1,3 +1,3 @@
 # WDI Data Dashboard
 
-Create a data to illustrate World Development Indicators with visualisations
+Create a data dashboard to illustrate World Development Indicator with stats and plots
